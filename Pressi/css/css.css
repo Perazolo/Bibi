@@ -1,0 +1,184 @@
+ @font-face {font-family: BAKE; src: url(../texto/bakerie-rough-bold.otf);}
+@font-face {font-family: AGA; src: url(../fonte/against\ regular.otf);}
+
+.FUNDO {position: fixed;}
+
+nav a{font-family: BAKE;
+font-size: 30px;
+position: relative;
+color: #ffffff;
+text-decoration: none;
+padding-left: 120px;
+left: 350px;
+top: -50PX;}
+
+.logo{position: relative;
+top: 40PX;
+left: 30PX;
+width: 07%;}
+
+h1{color: #ffffff;
+font-size: 40px;
+font-family: AGA;
+text-align: left;
+position: relative;
+top: -50PX;
+left: 170px;}
+
+.p1{font-size: 30px;
+font-family: BAKE;
+text-align: justify;
+width: 450px;
+line-height: 30px;
+position: absolute;
+left: 355px;
+top: 200px;
+color: #ffffff;}
+
+p{font-size: 20px;
+        font-family: CAVIAR;
+        text-align:left;
+        width: 1300px;
+        line-height: 30px;
+        position: relative;
+        left: 15%;
+        bottom: 70px;}
+
+        h4{text-align: center;
+                font-family: AGA;
+                font-size: 18px;}
+                
+                .botao {text-align: center;
+                        position: fixed;
+                        width: 100%;
+                        background-color: #2d5e9b00;
+                        bottom: 10px;
+                        padding: 8px;}
+                
+                .INICIO {position: absolute;
+                            left: 1100px;
+                            top: 250px;
+                        width: 23%;}
+
+                        .INICIO{transition: all 1s ;cursor: pointer;}
+                        .INICIO:hover{filter: drop-shadow(25px 25px 25px #8724a5be);}
+                
+                .semestre1 {position: relative;
+                left: 25%;
+                bottom: 50px;padding-left: 0px;
+                width: 23%;
+                color: #ffffff;}
+                
+                .semestre1{transition: all 1s;cursor: pointer;}
+                .semestre1:hover{transform: scale(1.1);}
+
+                .semestre1m {position: relative;
+                                left: 30%;
+                                width: 30%;
+                        bottom: 175px;
+                        color: #ffffff;}
+
+                        .semestre1m{transition: all 1s;cursor: pointer;}
+                .semestre1m:hover{transform: scale(1.1);}
+
+                .sem1{position: relative;
+                top: -350px;}
+
+
+        .wanda{color: #d9d3c3;
+                font-size: 20px;
+                font-family: BAKE;
+                text-align: left;
+                width: 300px;
+                position: relative;
+                left: 5%;
+                bottom: -150px;}
+
+        .marca{color: #d9d3c3;
+                font-size: 20px;
+        font-family: BAKE;
+        text-align:left;
+        width: 300px;
+        line-height: 30px;
+        position: relative;
+        left: 85%;
+        bottom: -5px;}
+                                    
+                .semestre2 {position: relative;
+                left: 250px;
+                bottom: 160px;
+                width: 30%;}
+
+                .semestre2{transition: all 1s;cursor: pointer;} 
+                .semestre2:hover{transform: scale(1.1);}
+                
+                
+                .semestree2 {position: relative;
+                        left: 500px;
+                        bottom: 150px;
+                        width: 30%;}
+
+                        .semestree2{transition: all 1s;cursor: pointer;}
+                        .semestree2:hover{transform: scale(1.1);}
+
+                 .prija{position: relative;
+                       font-family: BAKE;
+                       font-size: 20px;
+                        text-align: justify;
+                        width: 500px;
+                        color: #ffffff;
+                        left: 1100px;
+                        bottom: 200px;}
+
+                        .lana{position: relative;
+                                font-family: BAKE;
+                                font-size: 20px;
+                                 text-align: justify;
+                                 width: 500px;
+                                 color: #ffffff;
+                                 left: 300px;
+                                top: 01px;}
+         
+
+
+                .botao a {padding: 20px;
+                vertical-align: auto;}
+
+                .fundot {position: relative;
+                        left: 320px;
+                        width: 26%; }
+                
+                       video {position: relative;
+                               width: 680px;
+                               left: 203px;
+                                top: -120px;}
+
+                                .post{position: relative;
+                                        width: 33%;
+                                        left: 300px;
+                                        top: 30px;}
+                                        
+                                        .post{transition: all 1s ;cursor: pointer;}
+                                        .post:hover{filter: drop-shadow(25px 25px 25px #cc00ff);}
+                                        
+                                        .CARTAZ{font-size: 35px;
+                                                font-family: AGA;
+                                                text-align: justify;
+                                                color: #ffffff;
+                                                width: 1800px;
+                                                line-height: 30px;
+                                                position: relative;
+                                                left: 28%;
+                                                top: 80px;}
+
+                                       
+
+
+
+
+
+
+
+
+
+
